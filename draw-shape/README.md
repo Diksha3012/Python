@@ -1,1 +1,0 @@
-## Drawn a simple triangle.
